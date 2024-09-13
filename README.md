@@ -26,5 +26,5 @@
 
 ##
 
-<a href="linkedin.com/in/joão-salvador-neto-927086229" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-salvador-neto-927086229/?trk=opento_sprofile_topcard" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
