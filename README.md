@@ -16,7 +16,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width = "50px" height=40px>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width = "50px" height=40px>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width = "50px" height=40px>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg?short_path=c2dda3a" width = "40px" height=40px>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width = "40px" height=40px>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width = "50px" height=40px>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width = "50px" height=40px>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width = "50px" height=40px/>
