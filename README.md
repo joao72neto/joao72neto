@@ -1,6 +1,6 @@
 ## Hello, I'm João Salvador Neto 👋
 
-- 🐍 I’m currently learning python for data science
+- 📚 I'm currently working on a book e-commerce project
 - 😊 Ponouns: he/him
 
 
