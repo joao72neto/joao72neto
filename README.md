@@ -1,9 +1,12 @@
-## Hello, I'm João Salvador 👋
+## Olá, sou João Salvador 👋
 
-👨‍💻 **Front-end Developer | Fullstack Enthusiast**
-Building clean, modern web applications. Focused on the React/Next.js ecosystem with TypeScript, and exploring fullstack development with Spring.
+👨‍💻 **Desenvolvedor Full Stack Júnior**
 
-### 💻 Technologies & Tools
+Desenvolvedor Full Stack com experiência prática em **React, Next.js, TypeScript, Java com Spring Boot e ASP.NET**. Experiência no desenvolvimento e manutenção de aplicações web, desde a estruturação do front-end até a integração com APIs REST e desenvolvimento do back-end. 
+
+Também desenvolvo projetos pessoais explorando diferentes tecnologias e arquiteturas.
+
+### 💻 Tecnologias & Ferramentas
 
 <div align="left">
   <!-- Front-end -->
